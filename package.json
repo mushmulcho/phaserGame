@@ -1,0 +1,33 @@
+{
+  "name": "space-shooter",
+  "version": "1.0.0",
+  "description": "space shooter phaser game",
+  "main": "index.js",
+  "scripts": {
+    "build": "corss-env NODE_ENV=production webpack --config webpack.config.js",
+    "webpack-dev-server": "webpack-dev-server --config webpack.config.js --host 192.168.101.106 --port 9000 --content-base dev --inline --hot",
+    "dev": "cross-env NODE_ENV=dev webpack-dev-server --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushmulcho/space-shooter.git"
+  },
+  "author": "a.goychev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mushmulcho/space-shooter/issues"
+  },
+  "homepage": "https://github.com/mushmulcho/space-shooter#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.0"
+  },
+  "dependencies": {
+    "copy-webpack-plugin": "^6.1.1",
+    "phaser": "^3.24.1",
+    "ts-loader": "^8.0.4",
+    "typescript": "^4.0.3",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}

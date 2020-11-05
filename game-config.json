@@ -1,0 +1,59 @@
+{
+    "resources": {
+        "BootScene": {
+            "image": [
+                [
+                    "loadingBar",
+                    "assets/images/preloader-bar.png"
+                ]
+            ]
+        },
+        "PreloadScene": {
+            "image": [
+                [
+                    "background",
+                    "assets/images/nebula.jpg"
+                ],
+                [
+                    "stars",
+                    "assets/images/stars.png"
+                ]
+            ],
+            "atlas": [
+                [
+                    "space",
+                    "assets/images/space.png",
+                    "assets/images/space.json"
+                ],
+                [
+                    "enemyShips",
+                    "assets/images/enemyShips.png",
+                    "assets/images/enemyShips.json"
+                ],
+                [
+                    "lasers",
+                    "assets/images/lasers.png",
+                    "assets/images/lasers.json"
+                ]
+            ],
+            "audio": [
+                [
+                    "collect",
+                    "assets/audio/collect.ogg"
+                ],
+                [
+                    "explosion",
+                    "assets/audio/explosion.ogg"
+                ],
+                [
+                    "laser",
+                    "assets/audio/laser.mp3"
+                ],
+                [
+                    "asteroidExplosion",
+                    "assets/audio/asteroidExplosion.mp3"
+                ]
+            ]
+        }
+    }
+}

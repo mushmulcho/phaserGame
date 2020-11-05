@@ -1,0 +1,401 @@
+{"frames": {
+
+"laserBlue01.png":
+{
+	"frame": {"x":1,"y":202,"w":9,"h":54},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":54},
+	"sourceSize": {"w":9,"h":54}
+},
+"laserBlue02.png":
+{
+	"frame": {"x":41,"y":547,"w":13,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":37},
+	"sourceSize": {"w":13,"h":37}
+},
+"laserBlue03.png":
+{
+	"frame": {"x":51,"y":235,"w":9,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":37},
+	"sourceSize": {"w":9,"h":37}
+},
+"laserBlue04.png":
+{
+	"frame": {"x":41,"y":586,"w":13,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":37},
+	"sourceSize": {"w":13,"h":37}
+},
+"laserBlue05.png":
+{
+	"frame": {"x":51,"y":274,"w":9,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":37},
+	"sourceSize": {"w":9,"h":37}
+},
+"laserBlue06.png":
+{
+	"frame": {"x":40,"y":625,"w":13,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":37},
+	"sourceSize": {"w":13,"h":37}
+},
+"laserBlue07.png":
+{
+	"frame": {"x":51,"y":313,"w":9,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":37},
+	"sourceSize": {"w":9,"h":37}
+},
+"laserBlue08.png":
+{
+	"frame": {"x":1,"y":235,"w":48,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":46},
+	"sourceSize": {"w":48,"h":46}
+},
+"laserBlue09.png":
+{
+	"frame": {"x":1,"y":283,"w":48,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":46},
+	"sourceSize": {"w":48,"h":46}
+},
+"laserBlue10.png":
+{
+	"frame": {"x":1,"y":601,"w":37,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":37},
+	"sourceSize": {"w":37,"h":37}
+},
+"laserBlue11.png":
+{
+	"frame": {"x":1,"y":523,"w":38,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":37},
+	"sourceSize": {"w":38,"h":37}
+},
+"laserBlue12.png":
+{
+	"frame": {"x":1,"y":1,"w":13,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":57},
+	"sourceSize": {"w":13,"h":57}
+},
+"laserBlue13.png":
+{
+	"frame": {"x":1,"y":91,"w":9,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":57},
+	"sourceSize": {"w":9,"h":57}
+},
+"laserBlue14.png":
+{
+	"frame": {"x":1,"y":16,"w":13,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":57},
+	"sourceSize": {"w":13,"h":57}
+},
+"laserBlue15.png":
+{
+	"frame": {"x":1,"y":102,"w":9,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":57},
+	"sourceSize": {"w":9,"h":57}
+},
+"laserBlue16.png":
+{
+	"frame": {"x":1,"y":157,"w":13,"h":54},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":54},
+	"sourceSize": {"w":13,"h":54}
+},
+"laserGreen01.png":
+{
+	"frame": {"x":1,"y":562,"w":37,"h":38},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":38},
+	"sourceSize": {"w":37,"h":38}
+},
+"laserGreen02.png":
+{
+	"frame": {"x":1,"y":31,"w":13,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":57},
+	"sourceSize": {"w":13,"h":57}
+},
+"laserGreen03.png":
+{
+	"frame": {"x":1,"y":113,"w":9,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":57},
+	"sourceSize": {"w":9,"h":57}
+},
+"laserGreen04.png":
+{
+	"frame": {"x":40,"y":664,"w":13,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":37},
+	"sourceSize": {"w":13,"h":37}
+},
+"laserGreen05.png":
+{
+	"frame": {"x":51,"y":352,"w":9,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":37},
+	"sourceSize": {"w":9,"h":37}
+},
+"laserGreen06.png":
+{
+	"frame": {"x":1,"y":46,"w":13,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":57},
+	"sourceSize": {"w":13,"h":57}
+},
+"laserGreen07.png":
+{
+	"frame": {"x":1,"y":124,"w":9,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":57},
+	"sourceSize": {"w":9,"h":57}
+},
+"laserGreen08.png":
+{
+	"frame": {"x":40,"y":703,"w":13,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":37},
+	"sourceSize": {"w":13,"h":37}
+},
+"laserGreen09.png":
+{
+	"frame": {"x":51,"y":391,"w":9,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":37},
+	"sourceSize": {"w":9,"h":37}
+},
+"laserGreen10.png":
+{
+	"frame": {"x":1,"y":172,"w":13,"h":54},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":54},
+	"sourceSize": {"w":13,"h":54}
+},
+"laserGreen11.png":
+{
+	"frame": {"x":1,"y":213,"w":9,"h":54},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":54},
+	"sourceSize": {"w":9,"h":54}
+},
+"laserGreen12.png":
+{
+	"frame": {"x":40,"y":742,"w":13,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":37},
+	"sourceSize": {"w":13,"h":37}
+},
+"laserGreen13.png":
+{
+	"frame": {"x":51,"y":430,"w":9,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":37},
+	"sourceSize": {"w":9,"h":37}
+},
+"laserGreen14.png":
+{
+	"frame": {"x":1,"y":331,"w":48,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":46},
+	"sourceSize": {"w":48,"h":46}
+},
+"laserGreen15.png":
+{
+	"frame": {"x":1,"y":379,"w":48,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":46},
+	"sourceSize": {"w":48,"h":46}
+},
+"laserGreen16.png":
+{
+	"frame": {"x":1,"y":640,"w":37,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":37},
+	"sourceSize": {"w":37,"h":37}
+},
+"laserRed01.png":
+{
+	"frame": {"x":1,"y":224,"w":9,"h":54},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":54},
+	"sourceSize": {"w":9,"h":54}
+},
+"laserRed02.png":
+{
+	"frame": {"x":1,"y":756,"w":13,"h":37},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":37},
+	"sourceSize": {"w":13,"h":37}
+},
+"laserRed03.png":
+{
+	"frame": {"x":51,"y":469,"w":9,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":37},
+	"sourceSize": {"w":9,"h":37}
+},
+"laserRed04.png":
+{
+	"frame": {"x":1,"y":771,"w":13,"h":37},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":37},
+	"sourceSize": {"w":13,"h":37}
+},
+"laserRed05.png":
+{
+	"frame": {"x":51,"y":508,"w":9,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":37},
+	"sourceSize": {"w":9,"h":37}
+},
+"laserRed06.png":
+{
+	"frame": {"x":1,"y":786,"w":13,"h":37},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":37},
+	"sourceSize": {"w":13,"h":37}
+},
+"laserRed07.png":
+{
+	"frame": {"x":1,"y":801,"w":9,"h":37},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":37},
+	"sourceSize": {"w":9,"h":37}
+},
+"laserRed08.png":
+{
+	"frame": {"x":1,"y":427,"w":48,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":46},
+	"sourceSize": {"w":48,"h":46}
+},
+"laserRed09.png":
+{
+	"frame": {"x":1,"y":475,"w":48,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":46},
+	"sourceSize": {"w":48,"h":46}
+},
+"laserRed10.png":
+{
+	"frame": {"x":1,"y":718,"w":37,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":36},
+	"sourceSize": {"w":37,"h":36}
+},
+"laserRed11.png":
+{
+	"frame": {"x":1,"y":679,"w":37,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":37},
+	"sourceSize": {"w":37,"h":37}
+},
+"laserRed12.png":
+{
+	"frame": {"x":1,"y":61,"w":13,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":57},
+	"sourceSize": {"w":13,"h":57}
+},
+"laserRed13.png":
+{
+	"frame": {"x":1,"y":135,"w":9,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":57},
+	"sourceSize": {"w":9,"h":57}
+},
+"laserRed14.png":
+{
+	"frame": {"x":1,"y":76,"w":13,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":57},
+	"sourceSize": {"w":13,"h":57}
+},
+"laserRed15.png":
+{
+	"frame": {"x":1,"y":146,"w":9,"h":57},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":57},
+	"sourceSize": {"w":9,"h":57}
+},
+"laserRed16.png":
+{
+	"frame": {"x":1,"y":187,"w":13,"h":54},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":54},
+	"sourceSize": {"w":13,"h":54}
+}},
+"animations": {
+	"laserBlue": ["laserBlue01.png","laserBlue02.png","laserBlue03.png","laserBlue04.png","laserBlue05.png","laserBlue06.png","laserBlue07.png","laserBlue08.png","laserBlue09.png","laserBlue10.png","laserBlue11.png","laserBlue12.png","laserBlue13.png","laserBlue14.png","laserBlue15.png","laserBlue16.png"],
+	"laserGreen": ["laserGreen01.png","laserGreen02.png","laserGreen03.png","laserGreen04.png","laserGreen05.png","laserGreen06.png","laserGreen07.png","laserGreen08.png","laserGreen09.png","laserGreen10.png","laserGreen11.png","laserGreen12.png","laserGreen13.png","laserGreen14.png","laserGreen15.png","laserGreen16.png"],
+	"laserRed": ["laserRed01.png","laserRed02.png","laserRed03.png","laserRed04.png","laserRed05.png","laserRed06.png","laserRed07.png","laserRed08.png","laserRed09.png","laserRed10.png","laserRed11.png","laserRed12.png","laserRed13.png","laserRed14.png","laserRed15.png","laserRed16.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lasers.png",
+	"format": "RGBA8888",
+	"size": {"w":61,"h":811},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:15e4cab404bcd5fcfa627b4338ff7fea:5bc59fc7eccd5dba84eff5f257d1ecbb:3729e92c9b0a8746bac056a34ec3384e$"
+}
+}

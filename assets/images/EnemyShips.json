@@ -1,0 +1,25 @@
+{
+"frames": {
+	"ship1_1.png": {
+		"frame": {"x":0, "y":0, "w":137, "h":60},
+		"spriteSourceSize": {"x":3,"y":2,"w":143,"h":64},
+		"sourceSize": {"w":143,"h":64}
+	},
+	"ship2_1.png": {
+		"frame": {"x":137, "y":61, "w":86, "h":145},
+		"spriteSourceSize": {"x":0,"y":6,"w":86,"h":151},
+		"sourceSize": {"w":86,"h":151}
+	},
+	"ship3_1.png": {
+		"frame": {"x":0, "y":61, "w":136, "h":108},
+		"spriteSourceSize": {"x":2,"y":15,"w":140,"h":140},
+		"sourceSize": {"w":140,"h":140}
+	}
+
+},
+"meta": {
+	"image": "EnemyShips.png",
+	"size": {"w": 224, "h": 207},
+	"scale": "1"
+}
+}
